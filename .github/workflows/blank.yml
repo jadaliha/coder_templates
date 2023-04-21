@@ -8,7 +8,7 @@
     # Coder URL (e.g. https://coder.example.com)
     CODER_URL: https://coder.bill.tips/
     # Coder session token
-    CODER_SESSION_TOKEN: 
+    CODER_SESSION_TOKEN: 01sVY2hz5K-D7uJWo1O39N4b47t3pmfid
     # Template directory name defaults to TEMPLATE_NAME
     CODER_TEMPLATE_DIR: RSIMU
     # Template version
